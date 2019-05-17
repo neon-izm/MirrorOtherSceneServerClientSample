@@ -10,3 +10,7 @@ Mirror 3.6.7
 1. Import Mirror unitypackage https://github.com/vis2k/Mirror/releases/tag/v3.6.7
 2. Import this mirror_sample.unitypackage https://github.com/neon-izm/MirrorOtherSceneServerClientSample/releases/download/0.0.1/mirror_sample.unitypackage
 
+# sample
+![result](https://github.com/neon-izm/MirrorOtherSceneServerClientSample/blob/master/doc_images/sample.gif?raw=true)
+
+
